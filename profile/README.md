@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="logos/logo-branca.png">
     <source media="(prefers-color-scheme: light)" srcset="logos/logo-azul.png">
-    <img alt="Logo Integrale" src="logos/logo-branca.png" width="500">
+    <img alt="Logo Integrale" src="logos/logo-branca.png" width="450">
   </picture>
   
   ## Bem-vindo(a) ao GitHub da Integrale!
