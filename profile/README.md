@@ -1,6 +1,12 @@
-<h1 align="center">
-  Bem-vindo(a) ao GitHub da Integrale!
-</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logos/logo-branca.png">
+    <source media="(prefers-color-scheme: light)" srcset="logos/logo-azul.png">
+    <img alt="Logo Integrale" src="logos/logo-branca.png" width="500">
+  </picture>
+  
+  ## Bem-vindo(a) ao GitHub da Integrale!
+</div>
 
 ## 🤝 Quem somos?
 Somos parceiros estratégicos para empresas de qualquer porte, comprometidos em **impulsionar** seus resultados com as melhores **práticas e tecnologias de gestão**.
